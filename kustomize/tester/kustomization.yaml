@@ -1,4 +1,4 @@
-namespace: test
+namespace: sridhartest
 resources:
   - service.yaml
   - deployment.yaml
